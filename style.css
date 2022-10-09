@@ -174,7 +174,7 @@ button {
     font-weight: 600;
 }
 
-button.sign-up {
+.modal .sign-up {
     border: 2px solid white;
 }
 
