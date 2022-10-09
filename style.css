@@ -153,3 +153,36 @@ button {
     text-align: right;
 }
 
+.four {
+    padding: 120px 200px
+}
+
+.modal {
+    background: #3882f6;
+    display: flex;
+    border-radius: 10px;
+    padding: 32px 90px;
+    gap: 16px;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
+
+.header-modal {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+button.sign-up {
+    border: 2px solid white;
+}
+
+.footer {
+    height: 72px;
+    background: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
